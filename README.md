@@ -1,3 +1,5 @@
+
+
 <div id="header" align="center">
 <h1>Привет, Мир!</h1>
 <h3>Меня зовут Ярослав и я Backend-Developer...</h3>
@@ -13,12 +15,18 @@
 
 
 </a>
+<br>
+<img src="https://github.com/Rosya-edwica/Rosya-edwica/blob/main/scaler-create-impact.gif" width="600" height="400" />
 </div>
 <br>
 
+
 ## 👨‍🚀 Информация обо мне
 
-- 21 год
+- 👥 В настоящее время пробую себя в роли TeamLead, собирая команду для pet-проектов
+- 👩‍💻 Опыт разработки 4 года
+- 🫰 Коммерческий опыт почти 2 года
+- 📝 Профессионально самообразовываюсь
 
 
 ## 🧰 Мои навыки
