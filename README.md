@@ -3,10 +3,10 @@
 <h3>Меня зовут Ярослав и я Backend-Developer...</h3>
 
 <a href="https://t.me/SalomanHere">
-    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram" >
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" >
 </a>
 <a href="https://vk.com/rosyayun">
-    <img src="https://img.shields.io/badge/vk-black?style=for-the-badge&logo=vk&logoColor=blue" alt="VK">
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
 </a>
 <a href="https://www.linkedin.com/in/yaroslav-yunoshev-851669254/">
 <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" >
