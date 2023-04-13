@@ -12,7 +12,8 @@
 </a>
 <a href="https://www.linkedin.com/in/yaroslav-yunoshev-851669254/">
 <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" >
-
+<a href="https://leetcode.com/SalomanYu/">
+<img src="https://img.shields.io/badge/leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" >
 
 </a>
 <br>
