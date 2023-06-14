@@ -14,8 +14,11 @@
 <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" >
 <a href="https://leetcode.com/SalomanYu/">
 <img src="https://img.shields.io/badge/leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" >
-
 </a>
+<a href="https://krasnodar.hh.ru/applicant/resumes/view?resume=6db03983ff09d4a9860039ed1f5261666e7044">
+<img src="https://img.shields.io/badge/HeadHunter-blue?style=for-the-badge" alt="headhunter" >
+</a>
+    
 <br>
 <img src="https://github.com/Rosya-edwica/Rosya-edwica/blob/main/scaler-create-impact.gif" width="600" height="400" />
 </div>
