@@ -54,5 +54,5 @@
 
 
 ### 📊 Моя статистика
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rosya-edwica&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rosya-edwica&theme=aura_dark)
+![Rosya-edwica's Stats](https://github-readme-stats.vercel.app/api?username=Rosya-edwica&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rosya-edwica&theme=vue)
