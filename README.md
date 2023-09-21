@@ -54,5 +54,5 @@
 
 
 ### 📊 Моя статистика
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SalomanYu&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalomanYu&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rosya-edwica&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rosya-edwica&theme=aura_dark)
